@@ -1,0 +1,11 @@
+--superstore_Sales Insights:-
+
+1. The Technology category generated the highest sales, contributing approximately 36.4% of total revenue.
+
+2. The West region achieved the highest regional sales, totaling around $0.73M, followed closely by the East region at $0.68M.
+
+3. Sales peaked in the early months of 2014 and then gradually declined across the observed time period.
+
+4. The total recorded sales across all categories and regions amount to approximately $2.30M.
+
+These insights are based on the visual trends observed in the dashboard, including a Month-Year sales timeline, category breakdown, and regional performance.
